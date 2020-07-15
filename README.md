@@ -1,3 +1,10 @@
+## Instagram HomePage Clone Using ReactJS and Backend Handled using Firebase
+### Features:
+- SignUp / Login
+- Upload Posts
+- Add Comments
+### [Live Demo Link here](https://instagram-clone-16740.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
